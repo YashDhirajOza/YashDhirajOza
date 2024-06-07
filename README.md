@@ -1,24 +1,57 @@
-<h1 align="center">Hi 👋, I'm Yash Oza</h1>
-<h3 align="center">Sab Moh Maya he !</h3>
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩 𝙎𝙝𝙖𝙬
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdhirajoza&label=Profile%20views&color=0e75b6&style=flat" alt="yashdhirajoza" /> </p>
+[![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdhirajoza" alt="yashdhirajoza" /></a> </p>
+𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+:computer: 𝑨 𝒘𝒆𝒃 𝒅𝒆𝒗 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝑽𝒖𝒆.𝒋𝒔.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@yash oza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yash oza" height="30" width="40" /></a>
-</p>
+🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 🌵 𝘼𝙜𝙖𝙫𝙚 𝙣𝙖𝙣𝙣𝙮
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdhirajoza&show_icons=true&locale=en&layout=compact" alt="yashdhirajoza" /></p>
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdhirajoza&show_icons=true&locale=en" alt="yashdhirajoza" /></p>
+[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhirajoza&" alt="yashdhirajoza" /></p>
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+
+![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-%23333333?style=flat-square&logo=unocss)
+![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
+
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
+![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
