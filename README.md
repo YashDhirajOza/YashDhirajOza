@@ -15,7 +15,6 @@ Sab Moh Maya Hai
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z90rTdVoomY?si=LYqNCQNymT7oLIQT&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YashDhirajOza&icon=0&color=0)](https://visitcount.itsvg.in)
