@@ -2,7 +2,7 @@
 Sab Moh Maya Hai
 
 <div align="center">
-  <img src="[https://e0.pxfuel.com/wallpapers/479/541/desktop-wallpaper-man-soul-abstract-1080x2460.jpg](https://backiee.com/static/wallpapers/560x315/264801.jpg)" alt="Banner Image" style="width: 100%; max-width: 1200px; height: auto;" />
+  <img src="https://backiee.com/static/wallpapers/560x315/264801.jpg" alt="Banner Image" style="width: 100%; max-width: 1200px; height: auto;" />
 </div>
 
 
