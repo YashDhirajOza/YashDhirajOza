@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Sab Moh Maya Hai</h1>
+  <h1 style="font-size: 3em;">Sab Moh Maya Hai</h1>
 </div>
-
 <div align="center">
   <img src="https://backiee.com/static/wallpapers/560x315/264801.jpg" alt="Banner Image" style="width: 100%; max-width: 1200px; height: auto;" />
 </div>
