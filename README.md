@@ -1,7 +1,9 @@
-# 💫 About Me:
+
 Sab Moh Maya Hai
 
-
+<div align="center">
+  <img src="https://e0.pxfuel.com/wallpapers/479/541/desktop-wallpaper-man-soul-abstract-1080x2460.jpg" alt="Banner Image" style="width: 100%; max-width: 1200px; height: auto;" />
+</div>
 
 
 # 💻 Tech Stack:
