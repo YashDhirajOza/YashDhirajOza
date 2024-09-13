@@ -13,7 +13,7 @@ Sab Moh Maya Hai
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashDhirajOza&theme=neon&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashDhirajOza&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  ### ✍️ Random Dev Quote
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
