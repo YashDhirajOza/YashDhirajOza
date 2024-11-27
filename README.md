@@ -3,8 +3,9 @@
 </div>
 <div align="center">
   <img src="https://backiee.com/static/wallpapers/560x315/264801.jpg" alt="Banner Image" style="width: 100%; max-width: 1200px; height: auto;" />
-</div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashDhirajOza&theme=neon&radius=0&area=true&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
+</div>
+
 
 
 # 💻 Tech Stack:
